@@ -1,0 +1,26 @@
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	margin: 0px auto 0px auto;
+	padding: 40px 40px 40px 40px;
+	max-width: 400px;
+	line-height: 26px;
+	color: #000000;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 50px;
+	line-height: 46px;
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #009966;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #009966;
+}
